@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageIconUrl>http://0.gravatar.com/avatar/0b6442b3dc111885b6f0b54d6083e952?s=100&amp;d=mm&amp;r=g</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/pauloanalista/prmToolkit.Configuration</PackageProjectUrl>
+    <PackageTags>configuration, webconfig, appconfig, appsettings, paulorogerio</PackageTags>
+    <Description>Da suporte a obter informações do AppSettins do WebConfig ou AppConfig, dando uma mensagem de exceção tratada caso seja esperado uma chave que não foi definida no arquivo pelo desenvolvedor.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.0" />
+  </ItemGroup>
+
+</Project>
