@@ -112,3 +112,4 @@ Configuration.UnprotectConfigurationFile();
   </connectionStrings>
 ```
 
+OBS: Rode a aplicação no modo administrador
