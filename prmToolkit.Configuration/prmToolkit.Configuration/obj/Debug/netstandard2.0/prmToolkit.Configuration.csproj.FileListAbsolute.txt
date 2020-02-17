@@ -1,0 +1,7 @@
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Debug\netstandard2.0\prmToolkit.Configuration.deps.json
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Debug\netstandard2.0\prmToolkit.Configuration.dll
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Debug\netstandard2.0\prmToolkit.Configuration.pdb
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Debug\netstandard2.0\prmToolkit.Configuration.AssemblyInfoInputs.cache
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Debug\netstandard2.0\prmToolkit.Configuration.AssemblyInfo.cs
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Debug\netstandard2.0\prmToolkit.Configuration.dll
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Debug\netstandard2.0\prmToolkit.Configuration.pdb

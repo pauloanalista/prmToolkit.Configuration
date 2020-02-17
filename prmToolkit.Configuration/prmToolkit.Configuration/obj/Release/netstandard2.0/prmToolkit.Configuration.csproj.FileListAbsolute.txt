@@ -7,3 +7,10 @@ C:\_Paulo\GitHub\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Co
 C:\_Paulo\GitHub\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.AssemblyInfo.cs
 C:\_Paulo\GitHub\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.dll
 C:\_Paulo\GitHub\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.pdb
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Release\netstandard2.0\prmToolkit.Configuration.deps.json
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Release\netstandard2.0\prmToolkit.Configuration.dll
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\bin\Release\netstandard2.0\prmToolkit.Configuration.pdb
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.AssemblyInfoInputs.cache
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.AssemblyInfo.cs
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.dll
+C:\Users\Paulo\Downloads\git\prmToolkit.Configuration\prmToolkit.Configuration\prmToolkit.Configuration\obj\Release\netstandard2.0\prmToolkit.Configuration.pdb

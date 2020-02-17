@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "prmToolkit.Configuration/1.0.1": {
+      "prmToolkit.Configuration/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "System.Configuration.ConfigurationManager": "4.4.0"
@@ -44,7 +44,7 @@
     }
   },
   "libraries": {
-    "prmToolkit.Configuration/1.0.1": {
+    "prmToolkit.Configuration/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
